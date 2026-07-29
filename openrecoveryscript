@@ -1,0 +1,9 @@
+wipe cache
+wipe dalvik
+wipe data
+install /external_sd/GT-P5200/lineage-14.1-20190408-UNOFFICIAL-santos10wifi.zip
+install /external_sd/GT-P5200/open_gapps-x86-7.1-pico-20220503.zip
+install /external_sd/GT-P5200/Magisk-v19.3.zip
+wipe cache
+wipe dalvik
+reboot
